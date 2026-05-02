@@ -47,5 +47,5 @@
 
 ## 📫 Connect
 - Email: msohaib.devworks@gmail.com
-- LinkedIn: (link)  
+- LinkedIn: https://www.linkedin.com/in/msohaibdev
 - Portfolio: https://msohaib-portfolio.vercel.app
