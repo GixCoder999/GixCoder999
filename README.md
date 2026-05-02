@@ -100,11 +100,5 @@ Full-stack developer who enjoys building systems from scratch and understanding 
 - Full-stack system design  
 - Real-time applications  
 - Game development  
-- Understanding low-level and system internals  
+- Understanding low-level and system internals
 
----
-
-## 📫 Connect
-- Email: msohaib.devworks@gmail.com
-- LinkedIn: https://www.linkedin.com/in/msohaibdev
-- Portfolio: https://msohaib-portfolio.vercel.app
